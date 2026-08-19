@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-08-19",
-  "count": 92,
+  "count": 93,
   "items": [
     {
       "id": "item-wechat-anthropic-protein-design",
@@ -1570,6 +1570,27 @@
       "stage": "Scaled",
       "summary": "梅奥诊所介绍了一项 AI 增强型心电图应用：通过 10 秒心电图识别可能被忽视的心脏淀粉样变信号。院方称该工具已被临床使用超过 100 万次，并于近期获得 FDA 许可。",
       "take": "这是医疗 AI 从模型研究走向高频临床筛查的强信号，值得继续追踪其适应证、外部验证和部署范围。"
+    },
+    {
+      "id": "item-ant-afu-boohee-weight-management",
+      "scope": "AI 医疗",
+      "title": "蚂蚁入股薄荷健康，阿福把 AI 健康入口推进体重管理市场",
+      "originalTitle": "蚂蚁集团携手薄荷健康，“双向奔赴”共筑AI健康",
+      "originalSummary": "蚂蚁集团战略投资薄荷健康并成为其最大外部股东，双方围绕体重管理共建 AI 健康服务，首期拍饮食测卡路里功能已接入蚂蚁阿福。",
+      "originalLanguage": "zh",
+      "translationStatus": "source",
+      "entitySlug": "ant-afu",
+      "sourceName": "科技日报",
+      "platform": "行业媒体",
+      "author": "科技日报",
+      "sourceUrl": "https://www.stdaily.com/web/gdxw/2026-07/08/content_543977.html",
+      "publishedAt": "2026-07-08",
+      "category": "Funding",
+      "importance": 5,
+      "trust": "B",
+      "stage": "Commercial",
+      "summary": "科技日报报道，蚂蚁集团战略投资薄荷健康，交易后持股超过 28%，成为最大外部股东。双方明确面向体重管理场景共建专业级 AI 健康服务；阿福已上线拍饮食、测卡路里功能，并调用薄荷健康的饮食数据库提供饮食指导。",
+      "take": "阿福当前明确进入的是体重管理与数字化健康管理市场，而不是已获得独立临床验证的减重治疗市场。投资补上了食物知识库、营养干预和行为管理能力，后续值得追踪其是否连接智能硬件、慢病管理、医院减重门诊、药品与保险服务。"
     },
     {
       "id": "item-abridge-rady-childrens",
